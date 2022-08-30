@@ -1,9 +1,35 @@
-- Hello!
+# WELCOME!
 - My name is Abdallah Elabora!
+- An innovative undergraduate student majoring in the cutting-edge field of artificial intelligence and software engineering at the British University in Dubai. Proficient in deep learning models and algorithms. Excels as a full-stack developer and highly skilled at designing clean user interfaces that are both functional and professional.
 - I’m interested in AI, .NET, game development, and everything else this profession has to offer!
 - I’m currently learning artificial intelligence and software
 engineering at the British University in Dubai. 
 - You can reach me at abdallah.elabora@gmail.com
+
+# Projects So Far
+
+## 2022
+
+- [Product Satisfaction Predictor](https://github.com/Mayonaka88/product-satisfaction-predictor), Using Python and deep learning algorithoms to predict the satisfaction level from a product review
+- [Mock NFT Marketplace](https://github.com/Mayonaka88/mock-NFT-marketplace), Using C#, ASP.NET, SQL, and HTML/CSS
+- [Food Delivery Web App](https://github.com/Mayonaka88/food-delivery-web-app), Using C#, ASP.NET, SQL, and HTML/CSS
+- [Medical Diagnosing Web App](https://github.com/Mayonaka88/medical-diagnosing-web-app), Using C#, ASP.NET, and HTML/CSS
+
+## 2021
+
+- [Minimalist Music Aggregator](https://github.com/Mayonaka88/minimalist-music-aggregator), Using Python and deep learning algorithoms to recommend music
+- [Medical Assistant Chatbot](https://github.com/Mayonaka88/medical-assistant-chatbot), Using Python and deep learning algorithoms for a realistic-sounding conversations
+- [Driving Institute Database](https://github.com/Mayonaka88/driving-institute-database), Using SQL
+- [Simple MIPS Processor](https://github.com/Mayonaka88/simple-MIPS-processor), Using Python
+
+## 2020
+
+- [Java Lifestyle Tracker](https://github.com/Mayonaka88/java-lifestyle-tracker), Using Java
+- [Java Advanced Calculator](https://github.com/Mayonaka88/java-advanced-calculator), Using Java
+
+## 2019
+
+- [Mock University Website](https://github.com/Mayonaka88/mock-university-website), Using HTML/CSS
 
 <!---
 Mayonaka88/Mayonaka88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
