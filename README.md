@@ -5,6 +5,8 @@
 - I’m currently learning artificial intelligence and software
 engineering at the British University in Dubai. 
 - You can reach me at abdallah.elabora@gmail.com
+- You can also reach me at [LinkedIn](https://www.linkedin.com/in/abdallah-elabora-0942a6233/)
+- You can check out my game releases on [itch.io](https://mayonaka88.itch.io/)
 
 # Major Projects So Far
 
