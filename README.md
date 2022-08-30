@@ -11,6 +11,7 @@ engineering at the British University in Dubai.
 ## 2022
 
 - [Product Satisfaction Predictor](https://github.com/Mayonaka88/product-satisfaction-predictor), Using Python and deep learning algorithoms to predict the satisfaction level from a product review
+- [Speed Demon](https://mayonaka88.itch.io/speed-demon), Using Unity and C# to create an endless runner type game
 - [Mock NFT Marketplace](https://github.com/Mayonaka88/mock-NFT-marketplace), Using C#, ASP.NET, SQL, and HTML/CSS
 - [Food Delivery Web App](https://github.com/Mayonaka88/food-delivery-web-app), Using C#, ASP.NET, SQL, and HTML/CSS
 - [Medical Diagnosing Web App](https://github.com/Mayonaka88/medical-diagnosing-web-app), Using C#, ASP.NET, and HTML/CSS
