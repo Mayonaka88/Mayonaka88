@@ -6,7 +6,7 @@
 engineering at the British University in Dubai. 
 - You can reach me at abdallah.elabora@gmail.com
 
-# Projects So Far
+# Major Projects So Far
 
 ## 2022
 
