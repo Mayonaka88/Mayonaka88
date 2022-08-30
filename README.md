@@ -19,7 +19,6 @@ engineering at the British University in Dubai.
 
 - [Minimalist Music Aggregator](https://github.com/Mayonaka88/minimalist-music-aggregator), Using Python and deep learning algorithoms to recommend music
 - [Medical Assistant Chatbot](https://github.com/Mayonaka88/medical-assistant-chatbot), Using Python and deep learning algorithoms for a realistic-sounding conversations
-- [Driving Institute Database](https://github.com/Mayonaka88/driving-institute-database), Using SQL
 - [Simple MIPS Processor](https://github.com/Mayonaka88/simple-MIPS-processor), Using Python
 
 ## 2020
