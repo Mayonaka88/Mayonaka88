@@ -24,6 +24,7 @@ engineering at the British University in Dubai.
 
 ## 2020
 
+- [Facial Sentiment Recognition](https://ieeexplore.ieee.org/document/9243768), Using Python and deep learning algorithoms to detect emotions
 - [Java Lifestyle Tracker](https://github.com/Mayonaka88/java-lifestyle-tracker), Using Java
 - [Java Advanced Calculator](https://github.com/Mayonaka88/java-advanced-calculator), Using Java
 
