@@ -34,6 +34,11 @@ engineering at the British University in Dubai.
 
 - [Mock University Website](https://github.com/Mayonaka88/mock-university-website), Using HTML/CSS
 
+# Other Repositories
+
+- [Speed Demon Scripts](https://github.com/Mayonaka88/speed-demon-scripts), Using C#
+- [Driving Institute Database](https://github.com/Mayonaka88/driving-institute-database), Using SQL
+
 <!---
 Mayonaka88/Mayonaka88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
