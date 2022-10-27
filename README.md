@@ -38,6 +38,7 @@ engineering at the British University in Dubai.
 
 - [Speed Demon Scripts](https://github.com/Mayonaka88/speed-demon-scripts), Using C#
 - [Driving Institute Database](https://github.com/Mayonaka88/driving-institute-database), Using SQL
+- [Vending Machine](https://github.com/Mayonaka88/vending-machine), Using Java
 
 <!---
 Mayonaka88/Mayonaka88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
