@@ -36,6 +36,8 @@ engineering at the British University in Dubai.
 
 # Other Repositories
 
+
+- [Noise Generator](https://github.com/Mayonaka88/noise-generator), Using Python
 - [Speed Demon Scripts](https://github.com/Mayonaka88/speed-demon-scripts), Using C#
 - [Driving Institute Database](https://github.com/Mayonaka88/driving-institute-database), Using SQL
 - [Vending Machine](https://github.com/Mayonaka88/vending-machine), Using Java
