@@ -10,6 +10,10 @@ engineering at the British University in Dubai.
 
 # Major Projects So Far
 
+## 2023
+
+- [Questions and Answers Generator](https://github.com/Mayonaka88/questions-and-answers-generator), Using Python and deep learning algorithoms to generate questions and answers from text
+
 ## 2022
 
 - [Product Satisfaction Predictor](https://github.com/Mayonaka88/product-satisfaction-predictor), Using Python and deep learning algorithoms to predict the satisfaction level from a product review
