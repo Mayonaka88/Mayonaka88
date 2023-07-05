@@ -12,11 +12,11 @@ engineering at the British University in Dubai.
 
 ## 2023
 
-- [Questions and Answers Generator](https://github.com/Mayonaka88/questions-and-answers-generator), Using Python and deep learning algorithoms to generate questions and answers from text
+- [Questions and Answers Generator](https://github.com/Mayonaka88/questions-and-answers-generator), Using Python and deep learning algorithms to generate questions and answers from text
 
 ## 2022
 
-- [Product Satisfaction Predictor](https://github.com/Mayonaka88/product-satisfaction-predictor), Using Python and deep learning algorithoms to predict the satisfaction level from a product review
+- [Product Satisfaction Predictor](https://github.com/Mayonaka88/product-satisfaction-predictor), Using Python and deep learning algorithms to predict the satisfaction level from a product review
 - [Speed Demon](https://mayonaka88.itch.io/speed-demon), Using Unity and C# to create an endless runner type game
 - [Mock NFT Marketplace](https://github.com/Mayonaka88/mock-NFT-marketplace), Using C#, ASP.NET, SQL, and HTML/CSS
 - [Food Delivery Web App](https://github.com/Mayonaka88/food-delivery-web-app), Using C#, ASP.NET, SQL, and HTML/CSS
@@ -24,13 +24,13 @@ engineering at the British University in Dubai.
 
 ## 2021
 
-- [Minimalist Music Aggregator](https://github.com/Mayonaka88/minimalist-music-aggregator), Using Python and deep learning algorithoms to recommend music
-- [Medical Assistant Chatbot](https://github.com/Mayonaka88/medical-assistant-chatbot), Using Python and deep learning algorithoms for a realistic-sounding conversations
+- [Minimalist Music Aggregator](https://github.com/Mayonaka88/minimalist-music-aggregator), Using Python and deep learning algorithms to recommend music
+- [Medical Assistant Chatbot](https://github.com/Mayonaka88/medical-assistant-chatbot), Using Python and deep learning algorithms for realistic-sounding conversations
 - [Simple MIPS Processor](https://github.com/Mayonaka88/simple-MIPS-processor), Using Python
 
 ## 2020
 
-- [Facial Sentiment Recognition](https://ieeexplore.ieee.org/document/9243768), Using Python and deep learning algorithoms to detect emotions
+- [Facial Sentiment Recognition](https://ieeexplore.ieee.org/document/9243768), Using Python and deep learning algorithms to detect emotions
 - [Java Lifestyle Tracker](https://github.com/Mayonaka88/java-lifestyle-tracker), Using Java
 - [Java Advanced Calculator](https://github.com/Mayonaka88/java-advanced-calculator), Using Java
 
@@ -40,7 +40,7 @@ engineering at the British University in Dubai.
 
 # Other Repositories
 
-
+- [Gastroenteric Diagnostical Expert System](https://github.com/Mayonaka88/gastroenteric-diagnostical-expert-system), Using Python
 - [Noise Generator](https://github.com/Mayonaka88/noise-generator), Using Python
 - [Speed Demon Scripts](https://github.com/Mayonaka88/speed-demon-scripts), Using C#
 - [Driving Institute Database](https://github.com/Mayonaka88/driving-institute-database), Using SQL
