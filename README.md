@@ -12,7 +12,7 @@ engineering at the British University in Dubai.
 
 ## 2023
 
-- [Realistic Terrain Generation Using Generative Adversarial Networks](), Using DCGAN and cGAN to generate hyper-realistic terrain from global elevation data
+- [Realistic Terrain Generation Using Generative Adversarial Networks](), Using DCGAN and cGAN to generate hyper-realistic terrain
 - [SynthEarth Dataset](), A brand-new dataset consisting of 600k images of segmented and unsegmented synthetic Earth terrain images
 - [The SNIST Dataset](https://github.com/Mayonaka88/SNIST-Dataset), A brand-new dataset consisting of 150k images of sequenced handwritten characters
 - [Text Extraction and Transcription System](https://github.com/Mayonaka88/text-extraction-and-transcription-system), Using CRNN and EAST For Automatic Multiple Text Transcription From Images
