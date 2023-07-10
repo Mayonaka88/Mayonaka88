@@ -12,6 +12,7 @@ engineering at the British University in Dubai.
 
 ## 2023
 
+- [SynthEarth AI](https://mayonaka88.itch.io/synthearth-ai), An AI-Powered Hyper-Realistic Terrain Generating Drawing Tool
 - [Realistic Terrain Generation Using Generative Adversarial Networks](), Using DCGAN and cGAN to generate hyper-realistic terrain
 - [SynthEarth Dataset](), A brand-new dataset consisting of 600k images of segmented and unsegmented synthetic Earth terrain images
 - [The SNIST Dataset](https://github.com/Mayonaka88/SNIST-Dataset), A brand-new dataset consisting of 150k images of sequenced handwritten characters
