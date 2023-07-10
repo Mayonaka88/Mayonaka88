@@ -12,9 +12,12 @@ engineering at the British University in Dubai.
 
 ## 2023
 
+- [Realistic Terrain Generation Using Generative Adversarial Networks](), Using DCGAN and cGAN to generate hyper-realistic terrain from global elevation data
+- [SynthEarth Dataset](), A brand-new dataset consisting of 600k images of segmented and unsegmented synthetic Earth terrain images
 - [The SNIST Dataset](https://github.com/Mayonaka88/SNIST-Dataset), A brand-new dataset consisting of 150k images of sequenced handwritten characters
 - [Text Extraction and Transcription System](https://github.com/Mayonaka88/text-extraction-and-transcription-system), Using CRNN and EAST For Automatic Multiple Text Transcription From Images
 - [Questions and Answers Generator](https://github.com/Mayonaka88/questions-and-answers-generator), Using Python and deep learning algorithms to generate questions and answers from text
+- [Gastroenteric Diagnostical Expert System](https://github.com/Mayonaka88/gastroenteric-diagnostical-expert-system), Turning Python code into an executable application with a GUI
 
 ## 2022
 
@@ -42,7 +45,6 @@ engineering at the British University in Dubai.
 
 # Other Repositories
 
-- [Gastroenteric Diagnostical Expert System](https://github.com/Mayonaka88/gastroenteric-diagnostical-expert-system), Using Python
 - [Noise Generator](https://github.com/Mayonaka88/noise-generator), Using Python
 - [Speed Demon Scripts](https://github.com/Mayonaka88/speed-demon-scripts), Using C#
 - [Driving Institute Database](https://github.com/Mayonaka88/driving-institute-database), Using SQL
