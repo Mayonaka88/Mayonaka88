@@ -1,9 +1,7 @@
 # WELCOME!
 - My name is Abdallah Elabora!
-- An innovative undergraduate student majoring in the cutting-edge field of artificial intelligence and software engineering at the British University in Dubai. Proficient in deep learning models and algorithms. Excels as a full-stack developer and highly skilled at designing clean user interfaces that are both functional and professional.
-- I’m interested in AI, .NET, game development, and everything else this profession has to offer!
-- I’m currently learning artificial intelligence and software
-engineering at the British University in Dubai. 
+- An innovative AI specialist that majored in the cutting-edge field of artificial intelligence and software engineering at the British University in Dubai. Proficient in Image Processing for Computer Vision, NLP, data classification and prediction. Excels at developing both discriminative and generative models.
+- I’m interested in Computer Vision, generative AI, game development, and everything else this profession has to offer!
 - You can reach me at abdallah.elabora@gmail.com
 - You can also reach me at [LinkedIn](https://www.linkedin.com/in/abdallah-elabora-0942a6233/)
 - You can check out my game releases on [itch.io](https://mayonaka88.itch.io/)
